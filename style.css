@@ -113,7 +113,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     line-height: 23px;
-    text-align: left;
+    text-align: center;
 }
 
 .apresentacao span {
